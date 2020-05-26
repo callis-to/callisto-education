@@ -66,6 +66,8 @@
 
 - [Табитуриент](https://tabiturient.ru/)
 
+- [Мониторинг трудоустройства выпускников](http://vo.graduate.edu.ru/passport#/)
+
 </details>
 
 <details>
