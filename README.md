@@ -1,6 +1,8 @@
 # callisto-education
 
-## **_ЕГЭ_**
+
+<details>
+<summary><b>## **_ЕГЭ_**</b></summary>
 
 - [Старый банк заданий ФИПИ](http://ege.fipi.ru/os11/xmodules/qprint/index.php?proj) 
 
@@ -10,13 +12,21 @@
 
 - [РешуЕгэ](https://rus-ege.sdamgia.ru/)
 
-## **_Русский (ЕГЭ)_**
+</details>
+<br> 
+
+<details>
+<summary><b>## **_Русский (ЕГЭ)_**</b></summary>
 
 - [Русский на 5](http://russkiy-na-5.ru/)
 
 - [Отработка ударений](https://russianpy.marisehayashi.repl.run/)
 
-## **_Поступление_**
+</details>
+<br>
+
+<details>
+<summary><b>## **_Поступление_**</b></summary>
 
 - [Учеба.ру](https://www.ucheba.ru/)
 
@@ -32,4 +42,4 @@
 
 - [Табитуриент](https://tabiturient.ru/)
 
--
+</details>
