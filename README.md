@@ -65,6 +65,7 @@
 </details>
 
 <details>
+  
 <summary> :godmode: <b>По учёбе</b></summary>
 
 -[]()
