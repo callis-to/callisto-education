@@ -30,6 +30,7 @@
 <details>
 <summary> :rage1: <b>Математика (ЕГЭ)</b></summary>
 
+- [Подготовка к олимпам и ЕГЭ](https://mathus.ru/math/index.php#star)
 
 - [Сайт Александра Ларина](http://alexlarin.net/)
 
