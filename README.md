@@ -33,6 +33,8 @@
 
 - [Сайт Александра Ларина](http://alexlarin.net/)
 
+- [Тесты от МИФИ](http://live.mephist.ru/show/tests)
+
 </details>
 <br>
 
