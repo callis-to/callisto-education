@@ -2,7 +2,7 @@
 
 
 <details>
-<summary><b>## **_ЕГЭ_**</b></summary>
+<summary>:suspect:<b>ЕГЭ</b></summary>
 
 - [Старый банк заданий ФИПИ](http://ege.fipi.ru/os11/xmodules/qprint/index.php?proj) 
 
@@ -12,11 +12,13 @@
 
 - [РешуЕгэ](https://rus-ege.sdamgia.ru/)
 
+- [Сайт ЕГЭ](http://www.ege.edu.ru/ru/)
+
 </details>
 <br> 
 
 <details>
-<summary><b>## **_Русский (ЕГЭ)_**</b></summary>
+<summary>:hurtrealbad:<b>Русский (ЕГЭ)</b></summary>
 
 - [Русский на 5](http://russkiy-na-5.ru/)
 
@@ -26,7 +28,25 @@
 <br>
 
 <details>
-<summary><b>## **_Поступление_**</b></summary>
+<summary>:rage1:<b>Математика (ЕГЭ)</b></summary>
+
+- [Сайт Александра Ларина](http://alexlarin.net/)
+
+</details>
+<br>
+
+<details>
+<summary>:rage2:<b>История и общага (ЕГЭ)</b></summary>
+
+- [Карточки](https://quizlet.com/anton_chubukov)
+
+- [Обществознание онлайн](http://xn----7sbbbfrcoknutbddbdh1cu8l.xn--p1ai/)
+
+</details>
+<br>
+
+<details>
+<summary>:finnadie:<b>Поступление</b></summary>
 
 - [Учеба.ру](https://www.ucheba.ru/)
 
@@ -43,3 +63,13 @@
 - [Табитуриент](https://tabiturient.ru/)
 
 </details>
+
+<details>
+<summary>:godmode:<b>По учёбе</b></summary>
+
+-[]()
+
+</details>
+<br>
+
+
