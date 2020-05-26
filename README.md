@@ -36,7 +36,7 @@
 <br>
 
 <details>
-<summary>:rage2:<b>История и общага (ЕГЭ)</b></summary>
+<summary>:rage4:<b>История и общага (ЕГЭ)</b></summary>
 
 - [Карточки](https://quizlet.com/anton_chubukov)
 
