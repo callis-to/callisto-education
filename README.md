@@ -46,6 +46,8 @@
 
 - [Обществознание онлайн](http://xn----7sbbbfrcoknutbddbdh1cu8l.xn--p1ai/)
 
+- [Онлайн библиотека ист. источников МГУ](http://www.hist.msu.ru/ER/Etext/)
+
 </details>
 <br>
 
