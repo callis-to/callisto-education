@@ -16,6 +16,8 @@
 
 - [4ege](https://4ege.ru)
 
+- [ctege](https://ctege.info/)
+
 - [Незнайка](https://neznaika.info/)
 
 </details>
@@ -82,9 +84,14 @@
 
 <details>
   
-<summary> <b>По учёбе</b></summary>
+<summary> <b>По учёбе *для скачивания требуется торрент-трекер и/или VPN*</b></summary>
 
--[]()
+- [Большая библиотека учебников сайта Psyoffice](https://www.psyoffice.ru/schoolbook.html)
+
+- [Рутрекер/Школьные учебники ЕГЭ](https://rutracker.org/forum/tracker.php?f=2361)
+
+- [Рутрекер/Учебная лит-ра для старших классов](https://rutracker.org/forum/tracker.php?f=1689)
+
 
 </details>
 <br>
