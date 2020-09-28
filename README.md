@@ -62,7 +62,9 @@
 
 - [ctege Теория ЕГЭ по итсории без воды](https://ctege.info/istoriya-teoriya-ege/)
 
-- [Интерактивная карта руси 1015-1132](https://arzamas.academy/materials/709)
+- [Интерактивная карта руси с текстом1015-1132](https://arzamas.academy/materials/709)
+
+- [Интерактивная карта ВСЕЙ россии с датами](https://histography.ru/#welcome)
 
 </details>
 <br>
