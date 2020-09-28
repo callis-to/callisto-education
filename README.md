@@ -84,7 +84,7 @@
 
 <details>
   
-<summary> <b>По учёбе *для скачивания требуется торрент-трекер и/или VPN*</b></summary>
+<summary> <b>По учёбе ***для скачивания требуется торрент-трекер и/или VPN***</b></summary>
 
 - [Большая библиотека учебников сайта Psyoffice](https://www.psyoffice.ru/schoolbook.html)
 
