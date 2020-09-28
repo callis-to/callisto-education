@@ -14,6 +14,10 @@
 
 - [Сайт ЕГЭ](http://www.ege.edu.ru/ru/)
 
+- [4ege](https://4ege.ru)
+
+- [Незнайка](https://neznaika.info/)
+
 </details>
 <br> 
 
@@ -24,6 +28,8 @@
 
 - [Отработка ударений](https://russianpy.marisehayashi.repl.run/)
 
+- [Грамота.ру](http://gramota.ru )
+
 </details>
 <br>
 
@@ -32,7 +38,7 @@
 
 - [Подготовка к олимпам и ЕГЭ](https://mathus.ru/math/index.php#star)
 
-- [Сайт Александра Ларина](http://alexlarin.net/)
+- [Сайт Александра Ларина (генератор вариантов ЕГЭ)](http://alexlarin.net/)
 
 - [Тесты от МИФИ](http://live.mephist.ru/show/tests)
 
@@ -47,6 +53,8 @@
 - [Обществознание онлайн](http://xn----7sbbbfrcoknutbddbdh1cu8l.xn--p1ai/)
 
 - [Онлайн библиотека ист. источников МГУ](http://www.hist.msu.ru/ER/Etext/)
+
+- []()
 
 </details>
 <br>
