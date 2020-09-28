@@ -60,7 +60,7 @@
 
 - [Онлайн библиотека ист. источников МГУ](http://www.hist.msu.ru/ER/Etext/)
 
-- []()
+- [ctege Теория ЕГЭ по итсории без воды](https://ctege.info/istoriya-teoriya-ege/)
 
 </details>
 <br>
