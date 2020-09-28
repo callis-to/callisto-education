@@ -14,11 +14,13 @@
 
 - [Сайт ЕГЭ](http://www.ege.edu.ru/ru/)
 
-- [4ege](https://4ege.ru)
+- [4ege (сборник всяких разных других картинок и сборников)](https://4ege.ru)
 
 - [ctege](https://ctege.info/)
 
 - [Незнайка](https://neznaika.info/)
+
+- [Бингоскул](https://bingoschool.ru/)
 
 </details>
 <br> 
@@ -31,6 +33,8 @@
 - [Отработка ударений](https://russianpy.marisehayashi.repl.run/)
 
 - [Грамота.ру](http://gramota.ru )
+
+- [Проверка ударений на Грамота.ру](http://gramota.ru/slovari/dic/)
 
 </details>
 <br>
@@ -94,6 +98,15 @@
 
 
 </details>
+
+<details>
+  
+<summary> <b>Итоговое сочинение</b></summary>
+
+- [Имбища для ИС от Бингоскул](https://bingoschool.ru/ege/final-essay/themes/A)
+
+</details>
+
 <br>
 
 
