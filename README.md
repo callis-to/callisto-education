@@ -30,7 +30,7 @@
 
 - [Русский на 5](http://russkiy-na-5.ru/)
 
-- [Отработка ударений](https://russianpy.marisehayashi.repl.run/)
+- [Отработка ударений](https://xn----8sbhebeda0a3c5a7a.xn--p1ai/)
 
 - [Грамота.ру](http://gramota.ru )
 
